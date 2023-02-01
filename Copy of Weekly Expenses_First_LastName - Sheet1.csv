@@ -1,0 +1,21 @@
+Date,Day of the Week,Amount,Description,Category ,Method of Payment
+1/19,Thursday,12.05,lunch,Food,Cash
+1/19,Thursday,8.21,snack,Food,Debit
+1/19,Thursday,4.16,snack,Food,Debit
+1/19,Thursday,17.92,uber,Travel,Debit
+1/20,Friday,16.47,i forgot,Food,Debit
+1/20,Friday,20,gas,Travel,Debit
+1/20,Friday,12.05,lunch,Food,Debit
+1/21,Saturday,37.8,hot topic,Entertainment and Recreation,Debit
+1/21,Saturday,10.02,gas,Travel,Debit
+1/21,Saturday,22.08,chipotle,Food,Debit
+1/21,Saturday,7,boba,Food,Debit
+1/21,Saturday,12.64,panda chicken,Food,Debit
+1/22,Sunday,29.11,target,Housing,Debit
+1/22,Sunday,45,bowling,Entertainment and Recreation,Debit
+1/22,Sunday,32.15,gas,Travel,Debit
+1/23,Monday,4.16,taco bell,Food,Debit
+1/23,Monday,7.79,jamba juice,Food,Debit
+1/23,Monday,4.99,spotify,Entertainment and Recreation,Debit
+1/24,Tuesday,23.48,taco bell,Food,Debit
+1/25,Wednesday,52.45,supps,Entertainment and Recreation,Debit
